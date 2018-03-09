@@ -20,4 +20,6 @@ public class Test {
 	}
 
 	private void testFunction(){}
+
+	private void testFunction2(){}
 }
