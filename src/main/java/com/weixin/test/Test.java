@@ -22,4 +22,6 @@ public class Test {
 	private void testFunction(){}
 
 	private void testFunction2(){}
+
+	private void testFunction3(){}
 }
