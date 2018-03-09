@@ -19,7 +19,9 @@ public class Test {
 		}
 	}
 
-	private void testFunction(){}
+	private void testFunction(){
+		int i = 0;
+	}
 
 	private void testFunction2(){}
 
