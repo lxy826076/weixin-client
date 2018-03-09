@@ -18,4 +18,5 @@ public class Test {
 			e.printStackTrace();
 		}
 	}
+	private void testFunction(){}
 }
